@@ -1,12 +1,12 @@
-### Betaflight Unified Target Configuration Repository
+# Betaflight Unified Target Configuration Repository
 
 
-# How to Create a Unified Target Configuration
+## How to Create a Unified Target Configuration
 
 These instructions explain how to create a Unified Target configuration for an existing Betaflight target, starting out with the latest (4.0 or newer) firmware built for this target.
 
 
-## 1. Flash the firmware onto your board
+### 1. Flash the firmware onto your board
 
 (Theoretically there is no need for the board to match the firmware that is flashed in this step, but there is a chance that the board configuration is setting an input pin on the board to be an output pin, thus leading to a short and potential hardware damage.)
 
@@ -17,13 +17,13 @@ These instructions explain how to create a Unified Target configuration for an e
 - verify that your board is properly reset to defaults: The output of a `diff hardware` in CLI should show `board_name`, `manufacturer_id`, and lines starting with a `#`.
 
 
-## 2. Get a dump of your board configuration
+### 2. Get a dump of your board configuration
 
 - re-start CLI (Disconnect / Connect), then do a `dump hardware`, save the output into a file with 'Save to File';
 
 - edit the resulting file and verify that `board_name` is set to the target name, and `manufacturer_id` is set to the manufacturer's id as listed in [this document](docs/Manufacturers.md). If the manufacturer is not listed, open an [issue](https://github.com/betaflight/unified-targets/issues) and ask for a new id to be assigned. For boards that are homebrew and / or not planned for commercial availability, use `CUST` as the `manufacturer_id`.
 
-## 3. Flash the Unified Target firmware
+### 3. Flash the Unified Target firmware
 
 - find the correct Unified Target for your board based on the MCU type, according to the table below. If your target's MCU is not listed, please open an [issue](https://github.com/betaflight/betaflight/issues) about this to let us know there is demand. Currently, MCU types with only one or two boards using them are not released as Unified Targets.
 
@@ -37,7 +37,7 @@ These instructions explain how to create a Unified Target configuration for an e
 - find and install the firmware (4.0 or newer) for the Unified Target identified above. The firmware is available from the board type drop-down in configurator. Be aware that after flashing this firmware, the LEDs on your board will not be working - this is normal.
 
 
-## 4. Do the initial setup for your Unified Target configuration
+### 4. Do the initial setup for your Unified Target configuration
 
 - connect to your board running the Unified Target firmware, enter CLI;
 
@@ -46,7 +46,7 @@ These instructions explain how to create a Unified Target configuration for an e
 - when the board reboots now, the LEDs should start working again - this is a sign that the previous step was successful.
 
 
-## 5. Add custom settings for your board to the Unified Target configuration
+### 5. Add custom settings for your board to the Unified Target configuration
 
 - this step is optional. Omitting it will give users of your board a minimal but working board configuration when using a Unified Target;
 
@@ -57,7 +57,7 @@ These instructions explain how to create a Unified Target configuration for an e
 - save the changes;
 
 
-## 6. Create a Unified Target configuration file for your board
+### 6. Create a Unified Target configuration file for your board
 
 - re-start CLI (Disconnect / Connect), then do a `diff all bare`, save the output into a file named `<board_name>.config` with 'Save to File';
 
