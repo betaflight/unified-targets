@@ -1,0 +1,26 @@
+os:
+  - linux
+
+sudo: false
+
+dist: bionic
+
+git:
+  depth: 5
+
+script:
+  - make checks
+
+# Notifications are encrypted to betaflight/unified-targets to avoid spam from forks
+# Command: `travis encrypt "<secret>" -r betaflight/unified-targets --com`
+
+#notifications:
+#  slack:
+#    rooms:
+#      - secure: 
+#  webhooks:
+#    urls:
+#      - secure: 
+#    on_success: always  # options: [always|never|change] default: always
+#    on_failure: always  # options: [always|never|change] default: always
+#    on_start: always     # options: [always|never|change] default: always
