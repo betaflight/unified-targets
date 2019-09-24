@@ -9,7 +9,7 @@ git:
   depth: 5
 
 script:
-  - make checks
+  - make test
 
 # Notifications are encrypted to betaflight/unified-targets to avoid spam from forks
 # Command: `travis encrypt "<secret>" -r betaflight/unified-targets --com`
