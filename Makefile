@@ -16,7 +16,17 @@ check-unified-target-naming:
 			exit 1; \
 		fi; \
 		\
-		if [ "$${FILE_NAME}" != "$${BOARD_NAME}.config" ] && [ "$${FILE_NAME}" != "$${MANUFACTURER_ID}_$${BOARD_NAME}.config" ]; then \
+		if [ $$(echo "$${BOARD_NAME}" | grep -c '[^[:upper:][:digit:]_]') -ne 0 ]; then \
+			echo "Invalid characters found in board_name ($${BOARD_NAME}, allowed 'A'-'Z', '0'-'9', '_') in Unified Target configuration $${target_config}."; \
+			exit 1; \
+		fi; \
+		\
+		if [ $$(echo "$${MANUFACTURER_ID}" | grep -c '[^[:upper:][:digit:]_]') -ne 0 ]; then \
+			echo "Invalid characters found in manufacturer_id ($${MANUFACTURER_ID}, allowed 'A'-'Z', '0'-'9', '_') in Unified Target configuration $${target_config}."; \
+			exit 1; \
+		fi; \
+		\
+		if [ "$${FILE_NAME}" != "$${BOARD_NAME}.config" ] && [ "$${FILE_NAME}" != "$${MANUFACTURER_ID}-$${BOARD_NAME}.config" ]; then \
 			echo "File name does not match board name ($${BOARD_NAME}) / manufacturer id ($${MANUFACTURER_ID}) in Unified Target configuration $${target_config}."; \
 			exit 1; \
 		fi; \
