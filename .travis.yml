@@ -8,8 +8,15 @@ dist: bionic
 git:
   depth: 5
 
+language: node_js
+
+node_js:
+  - 10
+
 script:
   - make test
+  - node verify-targets.js
+  - ./verify-json.sh
 
 # Notifications are encrypted to betaflight/unified-targets to avoid spam from forks
 # Command: `travis encrypt "<secret>" -r betaflight/unified-targets --com`

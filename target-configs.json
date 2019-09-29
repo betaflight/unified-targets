@@ -1,0 +1,352 @@
+{
+  "default": [
+    {
+      "filename": "AFNG-ALIENFLIGHTF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AFNG-ALIENFLIGHTNGF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "AFNG-ALIENFLIGHTNGF7_DUAL.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "AFNG-ALIENFLIGHTNGF7_SPIRX.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "AIKO-AIKONF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIKO-AIKONF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "AIRB-AIRBOTF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIRB-AIRBOTF4SD.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIRB-AIRBOTF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "AIRB-LUXMINIF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "AIRB-OMNIBUSF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIRB-OMNIBUSF4FW.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIRB-OMNIBUSF4NANOV7.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIRB-OMNIBUSF4SD.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIRB-OMNIBUSF4V6.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIRB-OMNIBUSF7NANOV7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "AIRB-OMNIBUSF7V2.config",
+      "bareboard": "STM32F745"
+    },
+    {
+      "filename": "AIRB-OMNINXT4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "AIRB-XILOF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "BKMN-NERO.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "CLRA-CLRACINGF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "CLRA-CLRACINGF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "CUST-SIRMIXALOT.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "DALR-DALRCF405.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "DALR-DALRCF722DUAL.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "DIAT-FURYF4OSD.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "DIAT-MAMBAF411.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "DIAT-MAMBAF722.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "DRCL-ELINF405.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "DRCL-ELINF722.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "DYST-DYSF4PRO.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "EXUA-EXF722DUAL.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "FFPV-FF_RACEPIT.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "FFPV-FF_RACEPIT_MINI.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "FLWO-FLYWOOF405.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "FLWO-FLYWOOF411.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "FLWO-FLYWOOF7DUAL.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "FOXE-FOXEERF405.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "FOXE-FOXEERF722DUAL.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "FPVM-FPVM_BETAFLIGHTF7.config",
+      "bareboard": "STM32F745"
+    },
+    {
+      "filename": "HAMO-CRAZYBEEF4FR.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "HARC-HAKRCF405.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "HARC-HAKRCF411.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "HBRO-KAKUTEF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "HBRO-KAKUTEF4V2.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "HBRO-KAKUTEF7.config",
+      "bareboard": "STM32F745"
+    },
+    {
+      "filename": "HBRO-KAKUTEF7MINI.config",
+      "bareboard": "STM32F745"
+    },
+    {
+      "filename": "HENA-TALONF7FUSION.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "HENA-TALONF7V2.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "HGLR-HGLRCF405.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "HGLR-HGLRCF405AS.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "HGLR-HGLRCF411.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "HGLR-HGLRCF745.config",
+      "bareboard": "STM32F745"
+    },
+    {
+      "filename": "IFRC-IFF411_PRO.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "IFRC-IFF411_TWING.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "IFRC-IFF4_TWIN_G.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "IFRC-IFF7_TWIN_G.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "JHEF-JHEF7DUAL.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "KLEE-SYNERGYF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "MERA-MERAKRCF405.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "MERA-MERAKRCF722.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "MOLA-MLTEMPF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "MOLA-MLTYPHF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "MTKS-MATEKF405CTR.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "MTKS-MATEKF405MINI.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "MTKS-MATEKF405STD.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "MTKS-MATEKF411.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "MTKS-MATEKF411RX.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "MTKS-MATEKF411SE.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "MTKS-MATEKF722.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "MTKS-MATEKF722MINI.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "MTKS-MATEKF722SE.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "OPEN-REVO.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "RAST-AIRF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "RCTI-BEEROTORF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "RUSH-RUSHCORE7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "SPBE-SPEEDYBEEF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "SPBE-SPEEDYBEEF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "SPDX-SPEDIXF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "SPRO-SPRACINGF7DUAL.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "TACO-MODULARF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "TMTR-TMOTORF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "TMTR-TMOTORF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "TTRH-TRANSTECF411.config",
+      "bareboard": "STM32F411"
+    },
+    {
+      "filename": "TTRH-TRANSTECF7.config",
+      "bareboard": "STM32F7X2"
+    },
+    {
+      "filename": "VGRC-VGOODRCF4.config",
+      "bareboard": "STM32F405"
+    },
+    {
+      "filename": "VIVA-VIVAF4AIO.config",
+      "bareboard": "STM32F405"
+    }
+  ]
+}
