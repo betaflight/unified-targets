@@ -42,6 +42,12 @@
 * @betaflight/unified-target-administrators
 
 # Per manufacturer rules
-# rememer to add @betaflight/unified-target-administrators
+# remember to add @betaflight/unified-target-administrators
 
+/configs/default/BKMN- @blckmn @betaflight/unified-target-administrators
+/configs/default/CLRA- @bnn1044 @betaflight/unified-target-administrators
+/configs/default/DRCL- @elin-neo @betaflight/unified-target-administrators
+/configs/default/MTKS- @MATEKSYS @betaflight/unified-target-administrators
 /configs/default/RCTI- @mikeller-test @betaflight/unified-target-administrators
+/configs/default/SPRO- @hydra @betaflight/unified-target-administrators
+/configs/default/TTRH- @flosean @betaflight/unified-target-administrators
