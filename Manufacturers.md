@@ -11,6 +11,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |AIRB|Airbot|https://store.myairbot.com/|
 |BKMN|Jason Blackman|https://github.com/blckmn|
 |CLRA|CLRACING LLC|https://cl-racing.myshopify.com/|
+|DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
 |DRCL|dronercland|https://www.instagram.com/dronercland/|
 |DYST|DongYang Smart Technology Co.,Ltd (dys)|http://www.dys.hk/|

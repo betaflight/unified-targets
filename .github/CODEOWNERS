@@ -48,9 +48,11 @@
 /configs/default/AIRB- @x4FF3 @betaflight/unified-target-administrators
 /configs/default/BKMN- @blckmn @betaflight/unified-target-administrators
 /configs/default/CLRA- @bnn1044 @betaflight/unified-target-administrators
+/configs/default/DALR- @nyway @betaflight/unified-target-administrators
 /configs/default/DRCL- @elin-neo @betaflight/unified-target-administrators
 /configs/default/MTKS- @MATEKSYS @betaflight/unified-target-administrators
 /configs/default/RCTI- @mikeller-test @betaflight/unified-target-administrators
+/configs/default/RUSH- @nyway @betaflight/unified-target-administrators
 /configs/default/SPDX- @DieHertz @betaflight/unified-target-administrators
 /configs/default/SPRO- @hydra @betaflight/unified-target-administrators
 /configs/default/TMTR- @DieHertz @betaflight/unified-target-administrators
