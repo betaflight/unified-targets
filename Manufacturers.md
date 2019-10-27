@@ -25,6 +25,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |HARC|HAKRC|https://github.com/loopur|
 |HBRO|Holybro|http://www.holybro.com/index.html|
 |HENA|Heli-Nation|https://www.heli-nation.com/|
+|HFOR|HIFIONRC|http://www.hifionrc.com/|
 |HGLR|HGLRC|https://www.hglrc.com/|
 |IFRC|iFlight Innovation Technology Ltd.|https://www.iflight-rc.com/|
 |JHEF|JHE\_FPV|https://github.com/atgfpeyv|
