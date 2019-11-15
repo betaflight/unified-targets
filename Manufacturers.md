@@ -34,6 +34,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |MERA|MerakRC|http://www.merakrc.com/|
 |MOLA|MotoLab|https://github.com/MotoLab|
 |MTKS|Matek Systems|http://www.mateksys.com/|
+|MZGC|Manaz GCS|https://www.shop-mzgcs.de/|
 |OPEN|OpenPilot|https://librepilot.atlassian.net/wiki/display/LPDOC/OpenPilot+Revolution|
 |RAST|Racerstar|https://www.racerstar.com/|
 |RCTI|RCTimer|http://rctimer.com/|
