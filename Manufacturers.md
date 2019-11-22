@@ -35,6 +35,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |MOLA|MotoLab|https://github.com/MotoLab|
 |MTKS|Matek Systems|http://www.mateksys.com/|
 |MZGC|Manaz GCS|https://www.shop-mzgcs.de/|
+|NEBD|NewBeeDrone|https://newbeedrone.com/|
 |OPEN|OpenPilot|https://librepilot.atlassian.net/wiki/display/LPDOC/OpenPilot+Revolution|
 |RAST|Racerstar|https://www.racerstar.com/|
 |RCTI|RCTimer|http://rctimer.com/|
