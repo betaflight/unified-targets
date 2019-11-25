@@ -40,6 +40,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |RCTI|RCTimer|http://rctimer.com/|
 |RUSH|FPV Racing Rush|http://www.rushfpv.com/|
 |SPBE|LangTian Technology (Shenzhen) Co. (SpeedyBee)|https://www.speedybee.com/|
+|SPCM|Guangzhou shi parker electronic technology Co., Ltd|https://www.spcmaker.com/|
 |SPDX|Spedix Co, Ltd.|http://www.spedix-rc.com/|
 |SPRO|Seriously Pro Racing (SP Racing)|http://seriouslypro.com/|
 |TACO|Taco RC|https://taco-rc.com/|
