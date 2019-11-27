@@ -63,6 +63,7 @@
 /configs/default/PYDR-* @bnn1044 @betaflight/unified-target-administrators
 /configs/default/RCTI-* @mikeller-test @betaflight/unified-target-administrators
 /configs/default/RUSH-* @nyway @betaflight/unified-target-administrators
+/configs/default/SPCM-* @Linjieqiang @betaflight/unified-target-administrators
 /configs/default/SPDX-* @DieHertz @betaflight/unified-target-administrators
 /configs/default/SPRO-* @hydra @betaflight/unified-target-administrators
 /configs/default/TMTR-* @DieHertz @betaflight/unified-target-administrators
