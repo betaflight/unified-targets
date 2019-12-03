@@ -17,6 +17,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |DYST|DongYang Smart Technology Co.,Ltd (dys)|http://www.dys.hk/|
 |EXUA|EXUAV FPV|https://github.com/Linjieqiang|
 |FFPV|Furious FPV|https://furiousfpv.com/|
+|FLLF|Flying Lemon FPV|https://github.com/flyinglemonfpv|
 |FLWO|Flywoo|https://flywoo.net/|
 |FOXE|Foxeer|http://www.foxeer.com/|
 |FPVM|FPV Model|https://fpvmodel.com/|
