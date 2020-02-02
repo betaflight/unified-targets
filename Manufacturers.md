@@ -43,6 +43,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |MTKS|Matek Systems|http://www.mateksys.com/|
 |MZGC|Manaz GCS|https://www.shop-mzgcs.de/|
 |NEBD|NewBeeDrone|https://newbeedrone.com/|
+|NGUA|NG.UAVP|https://ng.uavp.ch/Shop|
 |OPEN|OpenPilot|https://librepilot.atlassian.net/wiki/spaces/LPDOC/pages/31588369/Supported+Hardware|
 |PYDR|Pyro-Drone|https://pyrodrone.com/|
 |RAST|Racerstar|https://www.racerstar.com/|
