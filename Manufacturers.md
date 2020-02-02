@@ -52,6 +52,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |SPCM|Guangzhou shi parker electronic technology Co., Ltd|https://www.spcmaker.com/|
 |SPDX|Spedix Co, Ltd.|http://www.spedix-rc.com/|
 |SPRO|Seriously Pro Racing (SP Racing)|http://seriouslypro.com/|
+|STMI|ST Microelectronics (MCU evaluation boards)|https://www.st.com/content/st_com/en.html|
 |TACO|Taco RC|https://taco-rc.com/|
 |TCMM|Shenzhen Xinmumu Science and Technology Co (TCMM)|http://www.tcmm-rc.cn/|
 |TMTR|T-motor|http://uav-en.tmotor.com/|
