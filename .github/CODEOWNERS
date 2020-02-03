@@ -65,6 +65,7 @@
 /configs/default/MTKS-* @MATEKSYS @betaflight/unified-target-administrators
 /configs/default/MZGC-* @JanikProphet @betaflight/unified-target-administrators
 /configs/default/NEBD-* @yangyeah @betaflight/unified-target-administrators
+/configs/default/NGUA-* @aguindehi @betaflight/unified-target-administrators
 /configs/default/PYDR-* @bnn1044 @betaflight/unified-target-administrators
 /configs/default/RCTI-* @mikeller-test @betaflight/unified-target-administrators
 /configs/default/RUSH-* @nyway @betaflight/unified-target-administrators
