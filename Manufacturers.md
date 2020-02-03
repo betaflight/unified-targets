@@ -6,6 +6,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |Manufacturer Id|Name|Contact|
 |-|-|-|
 |CUST|'Custom', to be used for homebrew targets||
+|FOSS|Free open source target definitions||
 |AFNG|AlienFlight NG|https://www.alienflightng.com/|
 |AIKO|AIKON Electronics|https://www.aikon-electronics.com/|
 |AIRB|Airbot|https://store.myairbot.com/|
