@@ -42,6 +42,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |LMNR|Lumenier|https://www.lumenier.com/|
 |MERA|MerakRC|http://www.merakrc.com/|
 |MOLA|MotoLab|https://github.com/MotoLab|
+|MOQU|Modd Quad|https://www.moddquad.com/|
 |MTKS|Matek Systems|http://www.mateksys.com/|
 |MZGC|Manaz GCS|https://www.shop-mzgcs.de/|
 |NEBD|NewBeeDrone|https://newbeedrone.com/|
