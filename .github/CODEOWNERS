@@ -54,6 +54,7 @@
 /configs/default/DERC-* @DemonRC @betaflight/unified-target-administrators
 /configs/default/DRCL-* @elin-neo @betaflight/unified-target-administrators
 /configs/default/EXUA-* @Linjieqiang @betaflight/unified-target-administrators
+/configs/default/FLCO-* @tobeornottobe81 @betaflight/unified-target-administrators
 /configs/default/FLLF-* @flyinglemonfpv @betaflight/unified-target-administrators
 /configs/default/FLMO-* @cvetaevvitaliy @betaflight/unified-target-administrators
 /configs/default/FOXE-* @Johnsnow-foxeer @betaflight/unified-target-administrators
