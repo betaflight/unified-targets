@@ -37,6 +37,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |HENA|Heli-Nation|https://www.heli-nation.com/|
 |HFOR|HIFIONRC|http://www.hifionrc.com/|
 |HGLR|HGLRC|https://www.hglrc.com/|
+|HOWI|Hobbywing Technology CO., LTD.|http://hobbywing.com/|
 |IFRC|iFlight Innovation Technology Ltd.|https://www.iflight-rc.com/|
 |JHEF|JHE\_FPV|https://github.com/atgfpeyv|
 |KLEE|Kevin Lee (WhitenoiseFPV)|https://whitenoisefpv.com/|
