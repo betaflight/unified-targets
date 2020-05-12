@@ -46,6 +46,7 @@
 
 /configs/default/AIKO-* @DieHertz @betaflight/unified-target-administrators
 /configs/default/AIRB-* @x4FF3 @betaflight/unified-target-administrators
+/configs/default/APEX-* @x4FF3 @betaflight/unified-target-administrators
 /configs/default/BEFH-* @hongzhou-zeng @betaflight/unified-target-administrators
 /configs/default/BKMN-* @blckmn @betaflight/unified-target-administrators
 /configs/default/CLRA-* @bnn1044 @betaflight/unified-target-administrators
