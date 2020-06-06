@@ -17,6 +17,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |BKMN|Jason Blackman|https://github.com/blckmn|
 |CLRA|CLRACING LLC|https://cl-racing.myshopify.com/|
 |DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
+|DAFP|DarwinFPV|https://darwinfpv.com/|
 |DERC|DemonRC|https://demonrc.eu/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
 |DRCL|dronercland|https://www.instagram.com/dronercland/|
