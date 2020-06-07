@@ -46,21 +46,26 @@
 
 /configs/default/AIKO-* @DieHertz @betaflight/unified-target-administrators
 /configs/default/AIRB-* @x4FF3 @betaflight/unified-target-administrators
+/configs/default/APEX-* @x4FF3 @betaflight/unified-target-administrators
 /configs/default/BEFH-* @hongzhou-zeng @betaflight/unified-target-administrators
 /configs/default/BKMN-* @blckmn @betaflight/unified-target-administrators
 /configs/default/CLRA-* @bnn1044 @betaflight/unified-target-administrators
 /configs/default/DALR-* @nyway @betaflight/unified-target-administrators
+/configs/default/DAFP-* @DMAXYANG @betaflight/unified-target-administrators
 /configs/default/DIAT-* @kc10kevin @betaflight/unified-target-administrators
 /configs/default/DERC-* @DemonRC @betaflight/unified-target-administrators
 /configs/default/DRCL-* @elin-neo @betaflight/unified-target-administrators
 /configs/default/EXUA-* @Linjieqiang @betaflight/unified-target-administrators
+/configs/default/FLCO-* @tobeornottobe81 @betaflight/unified-target-administrators
 /configs/default/FLLF-* @flyinglemonfpv @betaflight/unified-target-administrators
+/configs/default/FLMO-* @cvetaevvitaliy @betaflight/unified-target-administrators
 /configs/default/FOXE-* @Johnsnow-foxeer @betaflight/unified-target-administrators
 /configs/default/GEPR-* @Linjieqiang @betaflight/unified-target-administrators
 /configs/default/GEFP-* @x4FF3 @betaflight/unified-target-administrators
 /configs/default/HENA-* @bnn1044 @betaflight/unified-target-administrators
 /configs/default/HFOR-* @atgfpeyv @betaflight/unified-target-administrators
 /configs/default/HGLR-* @HGLRC-D @betaflight/unified-target-administrators
+/configs/default/HOWI-* @Project399 @betaflight/unified-target-administrators
 /configs/default/IFRC-* @Linjieqiang @betaflight/unified-target-administrators
 /configs/default/LDAR-* @Linjieqiang @betaflight/unified-target-administrators
 /configs/default/LMNR-* @x4FF3 @betaflight/unified-target-administrators

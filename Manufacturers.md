@@ -12,17 +12,21 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |AIKO|AIKON Electronics|https://www.aikon-electronics.com/|
 |AIRB|Airbot|https://store.myairbot.com/|
 |ALWH|Alienwhoop|https://shop.alienwhoop.us/|
+|APEX|Apexfpv|https://apexfpv.eu/|
 |BEFH|BETAFPV Hobby|https://betafpv.com/|
 |BKMN|Jason Blackman|https://github.com/blckmn|
 |CLRA|CLRACING LLC|https://cl-racing.myshopify.com/|
 |DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
+|DAFP|DarwinFPV|https://darwinfpv.com/|
 |DERC|DemonRC|https://demonrc.eu/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
 |DRCL|dronercland|https://www.instagram.com/dronercland/|
 |DYST|DongYang Smart Technology Co.,Ltd (dys)|http://www.dys.hk/|
 |EXUA|EXUAV FPV|https://github.com/Linjieqiang|
 |FFPV|Furious FPV|https://furiousfpv.com/|
+|FLCO|Shenzhen Flycolor Electronic Co., LTD|http://www.flycolor.net/|
 |FLLF|Flying Lemon FPV|https://github.com/flyinglemonfpv|
+|FLMO|FlyMod|https://flymod.net/|
 |FLON|FlightOne|https://flightone.com/|
 |FLWO|Flywoo|https://flywoo.net/|
 |FOXE|Foxeer|http://www.foxeer.com/|
@@ -36,6 +40,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |HENA|Heli-Nation|https://www.heli-nation.com/|
 |HFOR|HIFIONRC|http://www.hifionrc.com/|
 |HGLR|HGLRC|https://www.hglrc.com/|
+|HOWI|Hobbywing Technology CO., LTD.|http://hobbywing.com/|
 |IFRC|iFlight Innovation Technology Ltd.|https://www.iflight-rc.com/|
 |JHEF|JHE\_FPV|https://github.com/atgfpeyv|
 |KLEE|Kevin Lee (WhitenoiseFPV)|https://whitenoisefpv.com/|
