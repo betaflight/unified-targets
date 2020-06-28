@@ -7,7 +7,8 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |-|-|-|
 |CUST|'Custom', to be used for homebrew targets||
 |FOSS|Free open source target definitions||
-|LEGA|Closed source legacy target without a maintainer||
+|COMM|Community provided target definitions for closed source targets||
+|LEGA|Closed source legacy targets without a maintainer||
 |AFNG|AlienFlight NG|https://www.alienflightng.com/|
 |AIKO|AIKON Electronics|https://www.aikon-electronics.com/|
 |AIRB|Airbot|https://store.myairbot.com/|
