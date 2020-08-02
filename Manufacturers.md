@@ -39,6 +39,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |HAMO|Happymodel|http://www.happymodel.cn/|
 |HARC|HAKRC|https://github.com/loopur|
 |HBRO|Holybro|http://www.holybro.com/index.html|
+|HEBI|Shenzhen High Energy Bili Co., Ltd.|http://www.coddar.net/|
 |HENA|Heli-Nation|https://www.heli-nation.com/|
 |HFOR|HIFIONRC|http://www.hifionrc.com/|
 |HGLR|HGLRC|https://www.hglrc.com/|
