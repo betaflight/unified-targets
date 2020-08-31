@@ -20,6 +20,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
 |DAFP|DarwinFPV|https://darwinfpv.com/|
 |DERC|DemonRC|https://demonrc.eu/|
+|DFRA|Drone FPV Racer|https://www.drone-fpv-racer.com/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
 |DRCL|dronercland|https://www.instagram.com/dronercland/|
 |DYST|DongYang Smart Technology Co.,Ltd (dys)|http://www.dys.hk/|
