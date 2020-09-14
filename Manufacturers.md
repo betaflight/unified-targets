@@ -34,7 +34,6 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |FLWO|Flywoo|https://flywoo.net/|
 |FOXE|Foxeer|http://www.foxeer.com/|
 |FPVM|FPV Model|https://fpvmodel.com/|
-|FPVR|FPVRACER|http://www.fpvracer.cn/|
 |FRSK|FrSky|https://www.frsky-rc.com/|
 |GEFP|GetFPV LLC|https://www.getfpv.com/|
 |GEPR|GEPRC|https://geprc.com/|
