@@ -78,5 +78,6 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |TTRH|TransTEC|http://www.transtechobby.com/|
 |VGRC|V-GOOD Technology Co.|http://www.vgoodrc.com/|
 |VIVA|VivaFPV|https://vivafpv.com/|
+|WIZZ|WIZZ|https://wizz.store/|
 |YUPF|YuPiFc|https://www.yupifc.com/|
 |ZEEZ|ZeeZ Design|http://www.zeezdesign.com/|
