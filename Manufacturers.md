@@ -23,6 +23,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |DFRA|Drone FPV Racer|https://www.drone-fpv-racer.com/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
 |DRCL|dronercland|https://www.instagram.com/dronercland/|
+|DRRC|DroidRC|https://github.com/xiaoxiabub|
 |DYST|DongYang Smart Technology Co.,Ltd (dys)|http://www.dys.hk/|
 |EACH|eachine|https://www.eachine.com/|
 |EXUA|EXUAV FPV|https://github.com/Linjieqiang|
