@@ -44,7 +44,7 @@
 # Per manufacturer rules
 # remember to add @betaflight/unified-target-administrators
 
-/configs/default/AIKO-* @DieHertz @betaflight/unified-target-administrators
+/configs/default/AIKO-* @Guidus93 @betaflight/unified-target-administrators
 /configs/default/AIRB-* @x4FF3 @betaflight/unified-target-administrators
 /configs/default/APEX-* @x4FF3 @betaflight/unified-target-administrators
 /configs/default/BEFH-* @hongzhou-zeng @betaflight/unified-target-administrators
@@ -86,12 +86,12 @@
 /configs/default/SJET-* @star624 @betaflight/unified-target-administrators
 /configs/default/SKST-* @hongzhou-zeng @betaflight/unified-target-administrators
 /configs/default/SPCM-* @Linjieqiang @betaflight/unified-target-administrators
-/configs/default/SPDX-* @DieHertz @betaflight/unified-target-administrators
+/configs/default/SPDX-* @Guidus93 @betaflight/unified-target-administrators
 /configs/default/SPRO-* @hydra @betaflight/unified-target-administrators
 /configs/default/TCMM-* @DMAXYANG @betaflight/unified-target-administrators
 /configs/default/SNMT-* @hongzhou-zeng @betaflight/unified-target-administrators
 /configs/default/TEBS-* @sirPerna @betaflight/unified-target-administrators
-/configs/default/TMTR-* @DieHertz @betaflight/unified-target-administrators
+/configs/default/TMTR-* @Guidus93 @betaflight/unified-target-administrators
 /configs/default/TURC-* @TUNERC-Aria @betaflight/unified-target-administrators
 /configs/default/TTRH-* @flosean @betaflight/unified-target-administrators
 /configs/default/WIZZ-* @bnn1044 @betaflight/unified-target-administrators
