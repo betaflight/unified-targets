@@ -75,7 +75,6 @@ dma pin A08 0
 # feature
 feature -RX_PARALLEL_PWM
 feature RX_SERIAL
-feature SOFTSERIAL
 feature OSD
 feature LED_STRIP
 feature AIRMODE
@@ -99,14 +98,13 @@ set dshot_bitbang = OFF
 set motor_pwm_protocol = DSHOT600
 set current_meter = ADC
 set battery_meter = ADC
-set mag_hardware = NONE
 set beeper_inversion = ON
 set beeper_od = OFF
-set system_hse_mhz = 8
 set max7456_spi_bus = 2
 set flash_spi_bus = 2
 set gyro_1_bustype = SPI
 set gyro_1_spibus = 1
 set gyro_1_sensor_align = CW180
 set gyro_1_align_yaw = 1800
+
 
