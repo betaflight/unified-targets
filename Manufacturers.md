@@ -7,7 +7,8 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |-|-|-|
 |CUST|'Custom', to be used for homebrew targets||
 |FOSS|Free open source target definitions||
-|LEGA|Closed source legacy target without a maintainer||
+|COMM|Community provided target definitions for closed source targets||
+|LEGA|Closed source legacy targets without a maintainer||
 |AFNG|AlienFlight NG|https://www.alienflightng.com/|
 |AIKO|AIKON Electronics|https://www.aikon-electronics.com/|
 |AIRB|Airbot|https://store.myairbot.com/|
@@ -19,9 +20,12 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
 |DAFP|DarwinFPV|https://darwinfpv.com/|
 |DERC|DemonRC|https://demonrc.eu/|
+|DFRA|Drone FPV Racer|https://www.drone-fpv-racer.com/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
 |DRCL|dronercland|https://www.instagram.com/dronercland/|
+|DRRC|DroidRC|https://github.com/xiaoxiabub|
 |DYST|DongYang Smart Technology Co.,Ltd (dys)|http://www.dys.hk/|
+|EACH|eachine|https://www.eachine.com/|
 |EXUA|EXUAV FPV|https://github.com/Linjieqiang|
 |FFPV|Furious FPV|https://furiousfpv.com/|
 |FLCO|Shenzhen Flycolor Electronic Co., LTD|http://www.flycolor.net/|
@@ -37,6 +41,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |HAMO|Happymodel|http://www.happymodel.cn/|
 |HARC|HAKRC|https://github.com/loopur|
 |HBRO|Holybro|http://www.holybro.com/index.html|
+|HEBI|Shenzhen High Energy Bili Co., Ltd.|http://www.coddar.net/|
 |HENA|Heli-Nation|https://www.heli-nation.com/|
 |HFOR|HIFIONRC|http://www.hifionrc.com/|
 |HGLR|HGLRC|https://www.hglrc.com/|
@@ -52,6 +57,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |MTKS|Matek Systems|http://www.mateksys.com/|
 |MZGC|Manaz GCS|https://www.shop-mzgcs.de/|
 |NEBD|NewBeeDrone|https://newbeedrone.com/|
+|NERC|NeutronRC|https://www.facebook.com/Neutronrc-575638996448880|
 |NGUA|NG.UAVP|https://ng.uavp.ch/Shop|
 |OPEN|OpenPilot|https://librepilot.atlassian.net/wiki/spaces/LPDOC/pages/31588369/Supported+Hardware|
 |PYDR|Pyro-Drone|https://pyrodrone.com/|
@@ -68,10 +74,13 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |STMI|ST Microelectronics (MCU evaluation boards)|https://www.st.com/content/st_com/en.html|
 |TACO|Taco RC|https://taco-rc.com/|
 |TCMM|Shenzhen Xinmumu Science and Technology Co (TCMM)|http://www.tcmm-rc.cn/|
+|SNMT|Shenzhen NewMumu Technolagy Co.Ltd.|http://nvisionfpv.com/|
 |TEBS|Team Blacksheep|https://www.team-blacksheep.com/|
 |TMTR|T-motor|http://uav-en.tmotor.com/|
+|TURC|TUNERC|https://www.tunerc.com/|
 |TTRH|TransTEC|http://www.transtechobby.com/|
 |VGRC|V-GOOD Technology Co.|http://www.vgoodrc.com/|
 |VIVA|VivaFPV|https://vivafpv.com/|
+|WIZZ|WIZZ|https://wizz.store/|
 |YUPF|YuPiFc|https://www.yupifc.com/|
 |ZEEZ|ZeeZ Design|http://www.zeezdesign.com/|
