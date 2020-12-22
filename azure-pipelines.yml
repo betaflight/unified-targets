@@ -1,0 +1,26 @@
+# Runs the checks for Unified Target configurations
+#
+
+name: $(Build.RequestedFor)_$(Build.SourceBranchName)_$(BuildID)
+
+trigger:
+  batch: true
+  branches:
+    include:
+    - master
+
+pr:
+  drafts: false
+  branches:
+    include:
+    - master
+
+stages:
+- stage: Build
+  jobs:
+  - job: 'Linux'
+    pool:
+      vmImage: 'ubuntu-16.04'
+    steps:
+    - script: make test
+      displayName: 'Run the tests'
