@@ -38,6 +38,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |FRSK|FrSky|https://www.frsky-rc.com/|
 |GEFP|GetFPV LLC|https://www.getfpv.com/|
 |GEPR|GEPRC|https://geprc.com/|
+|GFPV|GE-FPV|http://www.ge-fpv.com/|
 |HAMO|Happymodel|http://www.happymodel.cn/|
 |HARC|HAKRC|https://github.com/loopur|
 |HBRO|Holybro|http://www.holybro.com/index.html|
