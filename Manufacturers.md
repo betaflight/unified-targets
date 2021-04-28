@@ -17,8 +17,8 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |BEFH|BETAFPV Hobby|https://betafpv.com/|
 |BKMN|Jason Blackman|https://github.com/blckmn|
 |CLRA|CLRACING LLC|https://cl-racing.myshopify.com/|
-|DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
 |DAFP|DarwinFPV|https://darwinfpv.com/|
+|DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
 |DERC|DemonRC|https://demonrc.eu/|
 |DFRA|Drone FPV Racer|https://www.drone-fpv-racer.com/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
@@ -70,6 +70,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |SJET|Shenzhen Jiufang Electronic Technology Co., Ltd.|https://www.jiufang-tech.com/|
 |SKST|Shenzhen SKYSTARS Tech Co., LIMITED|http://www.skystars-rc.com/index.html|
 |SKZO|SkyZone|http://www.skyzonehobbies.com/|
+|SNMT|Shenzhen NewMumu Technolagy Co.Ltd.|http://nvisionfpv.com/|
 |SPBE|LangTian Technology (Shenzhen) Co. (SpeedyBee)|https://www.speedybee.com/|
 |SPCM|Guangzhou shi parker electronic technology Co., Ltd|https://www.spcmaker.com/|
 |SPDX|Spedix Co, Ltd.|http://www.spedix-rc.com/|
@@ -77,11 +78,10 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |STMI|ST Microelectronics (MCU evaluation boards)|https://www.st.com/content/st_com/en.html|
 |TACO|Taco RC|https://taco-rc.com/|
 |TCMM|Shenzhen Xinmumu Science and Technology Co (TCMM)|http://www.tcmm-rc.cn/|
-|SNMT|Shenzhen NewMumu Technolagy Co.Ltd.|http://nvisionfpv.com/|
 |TEBS|Team Blacksheep|https://www.team-blacksheep.com/|
 |TMTR|T-motor|http://uav-en.tmotor.com/|
-|TURC|TUNERC|https://www.tunerc.com/|
 |TTRH|TransTEC|http://www.transtechobby.com/|
+|TURC|TUNERC|https://www.tunerc.com/|
 |VGRC|V-GOOD Technology Co.|http://www.vgoodrc.com/|
 |VIVA|VivaFPV|https://vivafpv.com/|
 |WIZZ|WIZZ|https://wizz.store/|
