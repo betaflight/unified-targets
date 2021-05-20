@@ -1,0 +1,63 @@
+# Betaflight / STM32F411 (S411) 4.3.0 May 20 2021 / 03:37:19 (e0ad71db2) MSP API: 1.44
+board_name FLOWBOX
+manufacturer_id NEUT
+
+# resources
+resource BEEPER 1 B01
+resource LED_STRIP 1 A15
+resource SERIAL_TX 1 A09
+resource SERIAL_TX 2 A02
+resource SERIAL_RX 1 A10
+resource SERIAL_RX 2 A03
+resource LED 1 C13
+resource SPI_SCK 1 A05
+resource SPI_SCK 3 B03
+resource SPI_MISO 1 A06
+resource SPI_MISO 3 B04
+resource SPI_MOSI 1 A07
+resource SPI_MOSI 3 B05
+resource FLASH_CS 1 A15
+resource GYRO_EXTI 1 A01
+resource GYRO_CS 1 A04
+resource PWM 1 B10
+
+# timer
+timer B01 AF2
+# pin B01: TIM3 CH4 (AF2)
+timer A15 AF1
+# pin A15: TIM2 CH1 (AF1)
+timer A02 AF2
+# pin A02: TIM5 CH3 (AF2)
+timer A03 AF3
+# pin A03: TIM9 CH2 (AF3)
+
+# dma
+dma ADC 1 1
+# ADC 1: DMA2 Stream 4 Channel 0
+dma pin B01 0
+# pin B01: DMA1 Stream 2 Channel 5
+dma pin A15 0
+# pin A15: DMA1 Stream 5 Channel 3
+dma pin A02 0
+# pin A02: DMA1 Stream 0 Channel 6
+
+
+# feature
+feature -RX_PARALLEL_PWM
+feature -AIRMODE
+feature RX_SERIAL
+
+# serial
+serial 0 64 115200 57600 0 115200
+
+# master
+
+set blackbox_device = SPIFLASH
+set beeper_frequency = 2185
+set beeper_inversion = ON
+set beeper_od = OFF
+set system_hse_mhz = 8
+set flash_spi_bus = 3
+set gyro_1_spibus = 1
+set gyro_1_sensor_align = CW180
+set gyro_1_align_yaw = 1800
