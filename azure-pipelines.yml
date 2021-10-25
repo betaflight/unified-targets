@@ -1,6 +1,9 @@
 # Runs the checks for Unified Target configurations
 #
 
+variables:
+  vmImage: "ubuntu-20.04"
+
 name: $(Build.RequestedFor)_$(Build.SourceBranchName)_$(BuildID)
 
 trigger:
@@ -20,7 +23,7 @@ stages:
   jobs:
   - job: 'Linux'
     pool:
-      vmImage: 'ubuntu-16.04'
+      vmImage: '$(vmImage)'
     steps:
     - script: make test
       displayName: 'Run the tests'
