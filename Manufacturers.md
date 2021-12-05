@@ -14,6 +14,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |AIRB|Airbot|https://store.myairbot.com/|
 |ALWH|Alienwhoop|https://shop.alienwhoop.us/|
 |APEX|Apexfpv|https://apexfpv.eu/|
+|AXFL|Axisflying|https://www.axisflying.com/|
 |BEFH|BETAFPV Hobby|https://betafpv.com/|
 |BKMN|Jason Blackman|https://github.com/blckmn|
 |CLRA|CLRACING LLC|https://cl-racing.myshopify.com/|
