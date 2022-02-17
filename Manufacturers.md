@@ -18,6 +18,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |BEFH|BETAFPV Hobby|https://betafpv.com/|
 |BKMN|Jason Blackman|https://github.com/blckmn|
 |CLRA|CLRACING LLC|https://cl-racing.myshopify.com/|
+|CYCL|CycloneRC|http://www.cyclone-rc.com|
 |DAFP|DarwinFPV|https://darwinfpv.com/|
 |DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
 |DERC|DemonRC|https://demonrc.eu/|
