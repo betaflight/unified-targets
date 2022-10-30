@@ -10,7 +10,7 @@ Manufacturers can contact us on Discord to be part of our certification program.
 
 ## Manufacturer Design Guidelines
 
-Read the [hardware specification](https://github.com/betaflight/betaflight/blob/master/docs/Manafacturer%20Design%20Guidelines.md).
+Read the [hardware specification](https://github.com/betaflight/betaflight/blob/master/docs/Manufacturer%20Design%20Guidelines.md).
 
 
 ## Build API
