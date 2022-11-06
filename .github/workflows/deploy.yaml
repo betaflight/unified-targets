@@ -14,14 +14,18 @@ jobs:
     - uses: actions/checkout@v3
 
     - id: files
-      uses: jitterbit/get-changed-files@v1
+      uses: tj-actions/changed-files@v34
+      with:
+        files: |
+          configs/default/**
     
-    - name: Upload configuration
+    - if: steps.files.outputs.any_changed == 'true'
+      name: Upload configuration
       env:
         API_KEY: ${{secrets.API_KEY}}
         URL: https://build.betaflight.com/api/config
       run: |
-        for target_config in ${{ steps.files.outputs.all }}; do
+        for target_config in ${{ steps.files.outputs.all_changed_files }}; do
 
             if [[ $target_config == *.config ]]; then
               BOARD_NAME=$(sed -n 's/^ *board_name \([^#]\+\).*$/\1/p' ${target_config} | sed -e 's/[[:space:]]*$//')
@@ -33,5 +37,5 @@ jobs:
                   exit 1
               fi
             fi
-            
-        done        
+
+        done
