@@ -1,6 +1,6 @@
 # Checks Unified Target Configuration.
 #
-name: PR
+name: CI - PR Test
 
 on:
   pull_request:
@@ -10,7 +10,8 @@ on:
 jobs:
   test:
     name: Test
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
