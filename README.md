@@ -15,7 +15,11 @@ Read the [hardware specification](https://github.com/betaflight/betaflight/blob/
 
 ## Build API
 
-All targets need to include #defines for drivers to be included for hardware drivers, including accelerometer, barometer, gyro, magnetometer and OSD.
+All targets need to include #defines for drivers to be included for hardware drivers, including accelerometer, gyro and OSD chip (if present).
+
+Note that hardware such as barometer and magnetometer, even if on the hardware, can be activated by the user select MAG or BARO in the configurator, and the system will load all the drivers. 
+
+Please describe in comments what hardware is on the actual board, to assist in future endeavours in managing the cloud build system.
 
 Please update all existing targets. See instructions below for more details.
 
