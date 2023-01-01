@@ -1,4 +1,4 @@
-# Betaflight Unified Target Configuration Repository
+# Betaflight Target Configuration Repository
 
 
 ## ATTENTION
@@ -28,4 +28,4 @@ Betaflight will include a certified flag as new hardware specification requireme
 
 ## Instructions
 
-Please follow [these instructions](https://github.com/betaflight/betaflight/blob/master/docs/TargetMaintenance/CreatingAUnifiedTarget.md) to create and publish a Unified Target configuration.
+Please follow [these instructions](https://github.com/betaflight/betaflight/blob/master/docs/TargetMaintenance/CreatingAUnifiedTarget.md) to create and publish a Target configuration.
