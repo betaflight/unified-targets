@@ -51,6 +51,7 @@
 /configs/default/AXFL-* @x4FF3 @betaflight/unified-target-administrators
 /configs/default/BEFH-* @hongzhou-zeng @betaflight/unified-target-administrators
 /configs/default/BKMN-* @blckmn @betaflight/unified-target-administrators
+/configs/default/CLNE-* @haslinghuis @betaflight/unified-target-administrators
 /configs/default/CLRA-* @bnn1044 @betaflight/unified-target-administrators
 /configs/default/CYCL-* @GEME-Cyi @betaflight/unified-target-administrators
 /configs/default/DAFP-* @DMAXYANG @betaflight/unified-target-administrators
