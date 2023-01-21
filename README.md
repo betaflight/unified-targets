@@ -10,7 +10,7 @@ Manufacturers can contact us on Discord to be part of our certification program.
 
 ## Manufacturer Design Guidelines
 
-Read the [hardware specification](https://github.com/betaflight/betaflight/blob/master/docs/Manufacturer%20Design%20Guidelines.md).
+Read the [hardware specification](https://betaflight.com/docs/manufacturer/Manufacturer%20Design%20Guidelines).
 
 
 ## Build API
@@ -28,4 +28,4 @@ Betaflight will include a certified flag as new hardware specification requireme
 
 ## Instructions
 
-Please follow [these instructions](https://github.com/betaflight/betaflight/blob/master/docs/TargetMaintenance/CreatingAUnifiedTarget.md) to create and publish a Target configuration.
+Please follow [these instructions](https://betaflight.com/docs/manufacturer/Creating%20An%20Unified%20Target) to create and publish a Target configuration.
