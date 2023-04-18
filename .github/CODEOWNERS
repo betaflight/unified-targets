@@ -99,6 +99,7 @@
 /configs/default/SPCM-* @Linjieqiang @betaflight/unified-target-administrators
 /configs/default/SPDX-* @Guidus93 @betaflight/unified-target-administrators
 /configs/default/SPRO-* @hydra @betaflight/unified-target-administrators
+/configs/default/SU25-* @Guidus93 @betaflight/unified-target-administrators
 /configs/default/TCMM-* @DMAXYANG @betaflight/unified-target-administrators
 /configs/default/TEBS-* @sirPerna @betaflight/unified-target-administrators
 /configs/default/TMTR-* @Guidus93 @betaflight/unified-target-administrators
