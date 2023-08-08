@@ -74,6 +74,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |SKST|Shenzhen SKYSTARS Tech Co., LIMITED|http://www.skystars-rc.com/index.html|
 |SKZO|SkyZone|http://www.skyzonehobbies.com/|
 |SNMT|Shenzhen NewMumu Technolagy Co.Ltd.|http://nvisionfpv.com/|
+|SOLO|Sologood RC|https://www.sologood.net/|
 |SPBE|LangTian Technology (Shenzhen) Co. (SpeedyBee)|https://www.speedybee.com/|
 |SPCM|Guangzhou shi parker electronic technology Co., Ltd|https://www.spcmaker.com/|
 |SPDX|Spedix Co, Ltd.|http://www.spedix-rc.com/|
