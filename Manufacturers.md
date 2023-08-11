@@ -62,6 +62,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |MOQU|Modd Quad|https://www.moddquad.com/|
 |MTKS|Matek Systems|http://www.mateksys.com/|
 |MZGC|Manaz GCS|https://www.shop-mzgcs.de/|
+|NAMO|Namimno Silan Electronic Technology Co.Ltd|http://namimnorc.com/]
 |NEBD|NewBeeDrone|https://newbeedrone.com/|
 |NERC|NeutronRC|https://www.facebook.com/Neutronrc-575638996448880|
 |NGUA|NG.UAVP|https://ng.uavp.ch/Shop|
