@@ -74,6 +74,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |SJET|Shenzhen Jiufang Electronic Technology Co., Ltd.|https://www.jiufang-tech.com/|
 |SKST|Shenzhen SKYSTARS Tech Co., LIMITED|http://www.skystars-rc.com/index.html|
 |SKZO|SkyZone|http://www.skyzonehobbies.com/|
+|SLGD|Sologood RC|https://www.sologood.net/|
 |SNMT|Shenzhen NewMumu Technolagy Co.Ltd.|http://nvisionfpv.com/|
 |SPBE|LangTian Technology (Shenzhen) Co. (SpeedyBee)|https://www.speedybee.com/|
 |SPCM|Guangzhou shi parker electronic technology Co., Ltd|https://www.spcmaker.com/|
