@@ -14,7 +14,7 @@
 #define USE_GYRO_SPI_ICM42688P
 #define USE_MAX7456
 
-board_name HGLRC_F722_MINI_SP
+board_name HGLRCF722MINI
 manufacturer_id HGLR
 
 # resources
