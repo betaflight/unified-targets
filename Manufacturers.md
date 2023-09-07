@@ -43,7 +43,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |GEPR|GEPRC|https://geprc.com/|
 |GFPV|GE-FPV|http://www.ge-fpv.com/|
 |HAMO|Happymodel|http://www.happymodel.cn/|
-|HARC|HAKRC|https://github.com/loopur|
+|HARC|HAKRC|https://www.hakrc.com/|
 |HBRO|Holybro|http://www.holybro.com/index.html|
 |HEBI|Shenzhen High Energy Bili Co., Ltd.|http://www.coddar.net/|
 |HENA|Heli-Nation|https://www.heli-nation.com/|
@@ -62,6 +62,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |MOQU|Modd Quad|https://www.moddquad.com/|
 |MTKS|Matek Systems|http://www.mateksys.com/|
 |MZGC|Manaz GCS|https://www.shop-mzgcs.de/|
+|NAMO|Namimno Silan Electronic Technology Co.Ltd|http://namimnorc.com/]
 |NEBD|NewBeeDrone|https://newbeedrone.com/|
 |NERC|NeutronRC|https://www.facebook.com/Neutronrc-575638996448880|
 |NGUA|NG.UAVP|https://ng.uavp.ch/Shop|
@@ -73,6 +74,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |SJET|Shenzhen Jiufang Electronic Technology Co., Ltd.|https://www.jiufang-tech.com/|
 |SKST|Shenzhen SKYSTARS Tech Co., LIMITED|http://www.skystars-rc.com/index.html|
 |SKZO|SkyZone|http://www.skyzonehobbies.com/|
+|SLGD|Sologood RC|https://www.sologood.net/|
 |SNMT|Shenzhen NewMumu Technolagy Co.Ltd.|http://nvisionfpv.com/|
 |SPBE|LangTian Technology (Shenzhen) Co. (SpeedyBee)|https://www.speedybee.com/|
 |SPCM|Guangzhou shi parker electronic technology Co., Ltd|https://www.spcmaker.com/|
