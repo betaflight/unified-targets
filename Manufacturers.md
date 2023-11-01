@@ -53,7 +53,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |HNEC|Huizhou NIDICI Electronic Co., LTD|https://shop.nidici.com/|
 |HOWI|Hobbywing Technology CO., LTD.|http://hobbywing.com/|
 |IFRC|iFlight Innovation Technology Ltd.|https://www.iflight-rc.com/|
-|JHEF|JHE\_FPV|https://github.com/atgfpeyv|
+|JHEF|JHE\_FPV|https://www.jhemcu.com/|
 |KLEE|Kevin Lee (WhitenoiseFPV)|https://whitenoisefpv.com/|
 |LDAR|LDARC|http://ldarc.com/|
 |LMNR|Lumenier|https://www.lumenier.com/|
