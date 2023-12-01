@@ -1,4 +1,4 @@
-# Betaflight / STM32F405 (S405) 4.4.0
+# Betaflight / STM32F405 (S405) 4.4.2 May 31 2023 / 22:53:28 (23d066d) MSP API: 1.45
 
 #define USE_GYRO
 #define USE_GYRO_SPI_MPU6000
