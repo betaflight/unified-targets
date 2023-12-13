@@ -70,6 +70,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |NEBD|NewBeeDrone|https://newbeedrone.com/|
 |NERC|NeutronRC|https://www.facebook.com/Neutronrc-575638996448880|
 |NGUA|NG.UAVP|https://ng.uavp.ch/Shop|
+|ODTY|OddityRC|http://www.oddityrc.com|
 |OPEN|OpenPilot|https://librepilot.atlassian.net/wiki/spaces/LPDOC/pages/31588369/Supported+Hardware|
 |PYDR|Pyro-Drone|https://pyrodrone.com/|
 |RAST|Racerstar|https://www.racerstar.com/|
