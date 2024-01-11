@@ -34,6 +34,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |EACH|eachine|https://www.eachine.com/|
 |EXUA|EXUAV FPV|https://github.com/Linjieqiang|
 |FFPV|Furious FPV|https://furiousfpv.com/|
+|FFRC|FlyFishRC|https://www.flyfish-rc.com/|
 |FLCO|Shenzhen Flycolor Electronic Co., LTD|http://www.flycolor.net/|
 |FLLF|Flying Lemon FPV|https://github.com/flyinglemonfpv|
 |FLMO|FlyMod|https://flymod.net/|
@@ -41,7 +42,6 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |FLWO|Flywoo|https://flywoo.net/|
 |FOXE|Foxeer|http://www.foxeer.com/|
 |FPVM|FPV Model|https://fpvmodel.com/|
-|FFRC|FlyFishRC|https://www.flyfish-rc.com/|
 |FRSK|FrSky|https://www.frsky-rc.com/|
 |GEFP|GetFPV LLC|https://www.getfpv.com/|
 |GEPR|GEPRC|https://geprc.com/|
