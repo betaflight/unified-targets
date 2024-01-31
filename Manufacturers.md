@@ -25,6 +25,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
 |DERC|DemonRC|https://demonrc.eu/|
 |DFRA|Drone FPV Racer|https://www.drone-fpv-racer.com/|
+|DFRC|Shenzhen Jingfei Technology Co., LTD|https://dreamflyrc.com/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
 |DRCL|dronercland|https://www.instagram.com/dronercland/|
 |DREA|DREAMRC|https://github.com/Dreamworks-fpv|
@@ -33,6 +34,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |EACH|eachine|https://www.eachine.com/|
 |EXUA|EXUAV FPV|https://github.com/Linjieqiang|
 |FFPV|Furious FPV|https://furiousfpv.com/|
+|FFRC|FlyFishRC|https://www.flyfish-rc.com/|
 |FLCO|Shenzhen Flycolor Electronic Co., LTD|http://www.flycolor.net/|
 |FLLF|Flying Lemon FPV|https://github.com/flyinglemonfpv|
 |FLMO|FlyMod|https://flymod.net/|
@@ -69,6 +71,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |NEBD|NewBeeDrone|https://newbeedrone.com/|
 |NERC|NeutronRC|https://www.facebook.com/Neutronrc-575638996448880|
 |NGUA|NG.UAVP|https://ng.uavp.ch/Shop|
+|ODTY|OddityRC|http://www.oddityrc.com|
 |OPEN|OpenPilot|https://librepilot.atlassian.net/wiki/spaces/LPDOC/pages/31588369/Supported+Hardware|
 |PYDR|Pyro-Drone|https://pyrodrone.com/|
 |RAST|Racerstar|https://www.racerstar.com/|
