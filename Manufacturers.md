@@ -19,7 +19,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |BEFH|BETAFPV Hobby|https://betafpv.com/|
 |BKMN|Jason Blackman|https://github.com/blckmn|
 |BSTF|BEASTFPV|http://www.beastfpv.com/|
-[CADX|CADDX TECHNOLOGY (SHENZHEN) CO., LTD|https://caddxfpv.com/|
+|CADX|CADDX TECHNOLOGY (SHENZHEN) CO., LTD|https://caddxfpv.com/|
 |CLRA|CLRACING LLC|https://cl-racing.myshopify.com/|
 |CYCL|CycloneRC|http://www.cyclone-rc.com|
 |DAFP|DarwinFPV|https://darwinfpv.com/|
