@@ -6,9 +6,9 @@
 
 ## ATTENTION
 
-Instructions have been updated as Betaflight requires certification as we are migrating to a new build API.
+Please see the [Manufacturer Guildlines](https://betaflight.com/docs/development/manufacturer/manufacturer-design-guidelines) for hardware certification.
 
-Manufacturers can contact us on Discord to be part of our certification program.
+Manufacturers can contact us on [Discord](https://discord.betaflight.com/) to be part of our certification program.
 
 
 ## Manufacturer Design Guidelines
