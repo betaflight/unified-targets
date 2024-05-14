@@ -1,13 +1,14 @@
 # Betaflight Target Configuration Repository
 
-
 > [!IMPORTANT]
-> 
+>
 > Unified-Targets are being sunsetted in favor of Target Configuration (config.h) files.  Please see https://betaflight.com/docs/development/manufacturer/creating-configuration for creating targets in the https://github.com/betaflight/config repository.
-> 
-> Instructions have been updated as Betaflight requires certification as we are migrating to a new build API.
-> 
-> Manufacturers can contact us on Discord to be part of our certification program.
+
+## ATTENTION
+
+Instructions have been updated as Betaflight requires certification as we are migrating to a new build API.
+
+Manufacturers can contact us on Discord to be part of our certification program.
 
 
 ## Manufacturer Design Guidelines
