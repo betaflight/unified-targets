@@ -1,16 +1,18 @@
 # Betaflight Target Configuration Repository
 
 
-## ATTENTION
+> [!IMPORTANT]
 
-Instructions have been updated as Betaflight requires certification as we are migrating to a new build API.
+> Unified-Targets are being sunsetted in favor of Target Configuration (config.h) files.  Please see https://betaflight.com/docs/development/manufacturer/creating-configuration for creating targets for the https://github.com/betaflight/config repository.
 
-Manufacturers can contact us on Discord to be part of our certification program.
+> Instructions have been updated as Betaflight requires certification as we are migrating to a new build API.
+
+> Manufacturers can contact us on Discord to be part of our certification program.
 
 
 ## Manufacturer Design Guidelines
 
-Read the [hardware specification](https://betaflight.com/docs/manufacturer/manufacturer-design-guidelines).
+Read the [hardware specification](https://betaflight.com/docs/development/manufacturer/manufacturer-design-guidelines).
 
 
 ## Build API
@@ -28,4 +30,4 @@ Betaflight will include a certified flag as new hardware specification requireme
 
 ## Instructions
 
-Please follow [these instructions](https://betaflight.com/docs/manufacturer/creating-an-unified-target) to create and publish a Target configuration.
+Please follow [these instructions](https://betaflight.com/docs/development/manufacturer/creating-an-unified-target) to create and publish a Target configuration.
