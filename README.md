@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > 
-> Unified-Targets are being sunsetted in favor of Target Configuration (config.h) files.  Please see https://betaflight.com/docs/development/manufacturer/creating-configuration for creating targets for the https://github.com/betaflight/config repository.
+> Unified-Targets are being sunsetted in favor of Target Configuration (config.h) files.  Please see https://betaflight.com/docs/development/manufacturer/creating-configuration for creating targets in the https://github.com/betaflight/config repository.
 > 
 > Instructions have been updated as Betaflight requires certification as we are migrating to a new build API.
 > 
