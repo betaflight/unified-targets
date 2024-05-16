@@ -19,6 +19,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |BEFH|BETAFPV Hobby|https://betafpv.com/|
 |BKMN|Jason Blackman|https://github.com/blckmn|
 |BSTF|BEASTFPV|http://www.beastfpv.com/|
+|CADX|CADDX TECHNOLOGY (SHENZHEN) CO., LTD|https://caddxfpv.com/|
 |CLRA|CLRACING LLC|https://cl-racing.myshopify.com/|
 |CYCL|CycloneRC|http://www.cyclone-rc.com|
 |DAFP|DarwinFPV|https://darwinfpv.com/|
@@ -32,6 +33,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |DRRC|DroidRC|https://github.com/xiaoxiabub|
 |DYST|DongYang Smart Technology Co.,Ltd (dys)|http://www.dys.hk/|
 |EACH|eachine|https://www.eachine.com/|
+|EASP|Ewing Aerospace|[https://ewingaerospace.com/|
 |EXUA|EXUAV FPV|https://github.com/Linjieqiang|
 |FFPV|Furious FPV|https://furiousfpv.com/|
 |FFRC|FlyFishRC|https://www.flyfish-rc.com/|
