@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+>
+> Unified-Targets are being sunsetted in favor of Target Configuration (config.h) files.  Please see https://betaflight.com/docs/development/manufacturer/creating-configuration for creating targets in the https://github.com/betaflight/config repository.
+>
+> NO new unified targets will be accepted, please ensure you are only updating an existing target with your PR
+
 ## Important considerations when opening a pull request:
 
 1. For all pull requests that add or update a Unified Target configuration, please read and follow [these instructions](https://github.com/betaflight/betaflight/blob/master/docs/TargetMaintenance/CreatingAUnifiedTarget.md).
