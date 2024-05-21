@@ -1,0 +1,103 @@
+# Betaflight / STM32F405 (S405) 4.4.3 Nov 15 2023 / 05:37:12 (738127e7e) MSP API: 1.45
+
+#define USE_GYRO
+#define USE_GYRO_SPI_ICM20602
+
+#define USE_ACC
+#define USE_ACC_SPI_ICM20602
+
+#define USE_BARO
+#define USE_BARO_SPI_MS5611
+
+#define USE_MAX7456
+#define USE_SDCARD
+
+board_name CKFLIGHTF4
+manufacturer_id CUST
+
+# resources
+resource BEEPER 1 B00
+resource MOTOR 1 B05
+resource MOTOR 2 B06
+resource MOTOR 3 B07
+resource MOTOR 4 A02
+resource LED_STRIP 1 C08
+resource SERIAL_TX 1 A09
+resource SERIAL_TX 4 A00
+resource SERIAL_TX 6 C06
+resource SERIAL_RX 1 A10
+resource SERIAL_RX 4 A01
+resource SERIAL_RX 6 C07
+resource I2C_SCL 2 B10
+resource I2C_SDA 2 B11
+resource LED 1 C02
+resource LED 2 C03
+resource SPI_SCK 1 A05
+resource SPI_SCK 2 B13
+resource SPI_SCK 3 C10
+resource SPI_MISO 1 A06
+resource SPI_MISO 2 B14
+resource SPI_MISO 3 C11
+resource SPI_MOSI 1 A07
+resource SPI_MOSI 2 B15
+resource SPI_MOSI 3 C12
+resource ADC_BATT 1 C05
+resource ADC_CURR 1 A04
+resource SDCARD_CS 1 A08
+resource GYRO_CS 1 B12
+resource BARO_CS 1 C04
+resource OSD_CS 1 C09
+
+# timer
+timer B05 AF2
+# pin B05: TIM3 CH2 (AF2)
+timer B06 AF2
+# pin B06: TIM4 CH1 (AF2)
+timer B07 AF2
+# pin B07: TIM4 CH2 (AF2)
+timer A02 AF1
+# pin A02: TIM2 CH3 (AF1)
+timer C08 AF3
+# pin C08: TIM8 CH3 (AF3)
+timer B00 AF1
+# pin B00: TIM1 CH2N (AF1)
+
+# dma
+dma ADC 1 1
+# ADC 1: DMA2 Stream 4 Channel 0
+dma ADC 2 1
+# ADC 2: DMA2 Stream 3 Channel 1
+dma pin A02 0
+# pin A02: DMA1 Stream 1 Channel 3
+dma pin B05 0
+# pin B05: DMA1 Stream 5 Channel 5
+dma pin B06 0
+# pin B06: DMA1 Stream 0 Channel 2
+dma pin B07 0
+# pin B07: DMA1 Stream 3 Channel 2
+dma pin C08 0
+# pin C08: DMA2 Stream 2 Channel 0
+
+# feature
+feature RX_SERIAL
+feature TELEMETRY
+feature OSD
+feature AIRMODE
+feature ANTI_GRAVITY
+
+# master
+set baro_bustype = SPI
+set baro_spi_device = 1
+set baro_hardware = MS5611
+set blackbox_device = SDCARD
+set sdcard_detect_inverted = ON
+set sdcard_mode = SPI
+set sdcard_spi_bus = 3
+set beeper_inversion = ON
+set beeper_od = OFF
+set beeper_frequency = 4000
+set system_hse_mhz = 8
+set gyro_1_bustype = SPI
+set gyro_1_spibus = 1
+set gyro_1_sensor_align = CW0
+set gyro_1_align_yaw = 0
