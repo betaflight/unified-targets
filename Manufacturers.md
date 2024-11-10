@@ -40,7 +40,6 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |FLCO|Shenzhen Flycolor Electronic Co., LTD|http://www.flycolor.net/|
 [FLHI|Fly High|https://elektronchika.github.io/flyhigh/|
 |FLLF|Flying Lemon FPV|https://github.com/flyinglemonfpv|
-|FLMO|FlyMod|https://flymod.net/|
 |FLON|FlightOne|https://flightone.com/|
 |FLWO|Flywoo|https://flywoo.net/|
 |FOXE|Foxeer|http://www.foxeer.com/|
@@ -89,6 +88,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |SPCM|Guangzhou shi parker electronic technology Co., Ltd|https://www.spcmaker.com/|
 |SPDX|Spedix Co, Ltd.|http://www.spedix-rc.com/|
 |SPRO|Seriously Pro Racing (SP Racing)|http://seriouslypro.com/|
+|STBE|StingBee|https://stingbee.com.ua/|
 |STMI|ST Microelectronics (MCU evaluation boards)|https://www.st.com/content/st_com/en.html|
 |TACO|Taco RC|https://taco-rc.com/|
 |TCMM|Shenzhen Xinmumu Science and Technology Co (TCMM)|http://www.tcmm-rc.cn/|
