@@ -27,8 +27,3 @@ Please describe in comments what hardware is on the actual board, to assist in f
 Please update all existing targets. See instructions below for more details.
 
 Betaflight will include a certified flag as new hardware specification requirements will be in place to improve quality. Documentation with more detailed guidelines will be provided on further notice.
-
-
-## Instructions
-
-Please follow [these instructions](https://betaflight.com/docs/development/manufacturer/creating-an-unified-target) to create and publish a Target configuration.
